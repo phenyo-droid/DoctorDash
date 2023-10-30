@@ -1,0 +1,4 @@
+Name,Email,Phone,HIV_Status,Chronic_Illness,BP,HBPM
+John Doe,johndoe@email.com,123-456-7890,Positive,None,N/A,60bpm
+Jane Smith,janesmith@email.com,987-654-3210,Negative,Diabetes,50,67bpm
+Alex Johnson,alexjohnson@email.com,111-222-3333,Positive,Tubercolosis,N/A,N/A
